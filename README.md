@@ -1,4 +1,4 @@
-# stream_audio
+# audio_streamer
 ## How to stream audio from client to server properly.
 First of all you should run server.py.
 Then run client.py
